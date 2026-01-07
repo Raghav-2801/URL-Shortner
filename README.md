@@ -9,13 +9,14 @@ A simple and efficient URL shortener service built with Flask and SQLite.
 - Collision detection to ensure unique short URLs
 - Persistent storage using SQLite database
 - RESTful API design
+- Proper error handling and validation
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd URL-api
+git clone https://github.com/Raghav-2801/URL-Shortner.git
+cd URL-Shortner
 ```
 
 2. Install dependencies:
